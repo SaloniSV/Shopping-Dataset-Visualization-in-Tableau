@@ -1,0 +1,2 @@
+**Dataset Overview: Shopping Data**
+The combined dataset merges data from 'shopping_trends.csv' and 'shopping_behavior_updated.csv'. It offers a comprehensive view of customers' shopping behaviors, demographics, and purchase details. For columns that exist in both datasets, the suffix '_updated' is added to columns from the 'shopping_behavior_updated.csv' dataset. This helps differentiate between the original and the updated information. Below is a detailed breakdown of the dataset's columns:
